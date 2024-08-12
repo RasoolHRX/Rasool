@@ -1,6 +1,6 @@
 <p align="center">
 <picture>
-<img width="160" height="160"  alt="XPanel" src="https://github.com/RasoolHRX/Rasool/blob/28044bbffe1c3ac2e5d5ab30206c1acb4b718cfb/images/logo.png">
+<img width="160" height="160"  alt="XPanel" src="https://github.com/RasoolHRX/Rasool/blob/main/images/logo.png">
 </picture>
   </p> 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<img alt="GitHub release (latest by date)" src="https://github.com/RasoolHRX/Rasool/blob/28044bbffe1c3ac2e5d5ab30206c1acb4b718cfb/images/logo.png">
+<img alt="GitHub release (latest by date)" src="https://github.com/RasoolHRX/Rasool/blob/main/images/logo.png?raw=true">
 </p>
 
 ## معرفی <br>
