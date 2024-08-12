@@ -176,7 +176,7 @@ copyPanelRepo(){
         rm -rf /var/www/html/account
     fi
 
-   link=https://github.com/RasoolHRX/Rasool/blob/5f19024d41d9a6bfe39ccf3bfdba397b3a8be7c1/app.zip
+   link=https://github.com/RasoolHRX/Rasool/raw/main/app.zip
 
     if [[ -n "$link" ]]; then
         rm -fr /var/www/html/update.zip
@@ -453,7 +453,7 @@ ENDOFFILE
 installationInfo(){
     clear
     echo -e "\n"
-    bannerText=$(curl -s https://raw.githubusercontent.com/RasoolHRX/Rasool/main/rocket-banner.txt?token=GHSAT0AAAAAACWAKODPHS2EOAQJESRJDE5EZV2EKGQ)
+    bannerText=$(curl -s https://raw.githubusercontent.com/RasoolHRX/Rasool/main/rocket-banner.txt)
     printf "%s" "$bannerText"
     echo -e "\n"
     printf "Panel Link : $httpProtcol://${ipv4}:$panelPort/login"
