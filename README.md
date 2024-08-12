@@ -37,7 +37,7 @@
 برای نصب دستور زیر را وارد کنید<br>
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/RasoolHRX/Rasool/main/install.sh?token=GHSAT0AAAAAACWAKODPJPP2LP4BFKTERQ7QZV2DZ4Q --ipv4)
+bash <(curl -Ls https://raw.githubusercontent.com/RasoolHRX/Rasool/main/install.sh --ipv4)
 ```
 
 # آپدیت پنل ادمین
@@ -45,7 +45,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/RasoolHRX/Rasool/main/install.
 نیازی به نصب مجدد نیست . با این روش فقط پنل ادمین آپدیت می شود . در این روش اطلاعات دیتابیس تغییر نمی کند
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/RasoolHRX/Rasool/main/update-panel.sh?token=GHSAT0AAAAAACWAKODP2AZUVRG6YB2GNZNKZV2D3BA --ipv4)
+bash <(curl -Ls https://raw.githubusercontent.com/RasoolHRX/Rasool/main/update-panel.sh --ipv4)
 ```
 
 # ❤️ حمایت از ما
@@ -59,7 +59,7 @@ TWT4BPgf4RFx1De3xXT4jdJNo4iUdvkgLv
 ## فعال سازی SSL
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/RasoolHRX/Rasool/main/ssl.sh?token=GHSAT0AAAAAACWAKODP44I5YV2WGV2IR7DSZV2D3VQ --ipv4)
+bash <(curl -Ls https://raw.githubusercontent.com/RasoolHRX/Rasool/main/ssl.sh --ipv4)
 ```
 
 # بلاک کردن آی پی های ایران
@@ -67,7 +67,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/RasoolHRX/Rasool/main/ssl.sh?t
 جهت بلاک کردن آی پی های ایران از دستور زیر استفاده کنید
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/RasoolHRX/Rasool/main/block-ir-ip.sh?token=GHSAT0AAAAAACWAKODOJ2NFBME5JSFGGZEIZV2D35Q --ipv4)
+bash <(curl -Ls https://raw.githubusercontent.com/RasoolHRX/Rasool/main/block-ir-ip.sh --ipv4)
 ```
 
 # کانال تلگرام
